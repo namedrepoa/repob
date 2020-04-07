@@ -1,4 +1,4 @@
  #-----Basic parameters-----
-  name                          = "curasan"
+  name                          = "acronym"
   resource_group                = "sfsfrfsfsdfsdfsdfsdf"
   location                      = "westeurope"
